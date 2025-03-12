@@ -1,5 +1,8 @@
-CleanStart Redis Image 
-📌 Introduction
+**CleanStart Redis Image** 
+
+---
+
+**📌 Introduction**
 The cleanstart/redis image provides a high-performance, in-memory, and production-ready data structure store that can be used as a database, cache, and message broker.
 
 ✔️ In-memory performance
@@ -8,7 +11,7 @@ The cleanstart/redis image provides a high-performance, in-memory, and productio
 
 It supports various use cases, including caching, real-time analytics, pub/sub messaging, and session storage.
 
-📌 Why Use?
+**📌 Why Use?**
 ✔️ Lightning Fast → Sub-millisecond response times with in-memory operations.
 🚀 Scalable → Support for clustering and replication for high availability.
 🛠️ Feature Rich → Extensive command set for various data structures (strings, lists, sets, hashes).
@@ -16,7 +19,7 @@ It supports various use cases, including caching, real-time analytics, pub/sub m
 
 ---
 
-⬇️ Download This Image
+**⬇️ Download This Image**
 
 This image is available on Docker Hub:
 cleanstart/redis on Docker Hub
@@ -26,7 +29,7 @@ docker pull cleanstart/redis:latest
 ```
 ---
 
-🔹 Variants
+**🔹 Variants**
 
 CleanStart provides two image variants:
 
@@ -47,7 +50,7 @@ docker pull cleanstart/redis:latest-dev
 
 ---
 
-🛠️ Usage Examples
+**🛠️ Usage Examples**
 
 💻 Getting Set Up
 Redis Version
